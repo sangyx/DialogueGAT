@@ -1,6 +1,5 @@
 from argparse import ArgumentParser
 
-import copy
 import torch
 from torch import nn, optim
 

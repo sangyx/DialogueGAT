@@ -1,4 +1,3 @@
-import os
 import torch
 from torch.utils import data
 import pickle
