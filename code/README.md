@@ -1,11 +1,7 @@
 # DialogueGAT
 
-## ToDo
-Provide detailed instruction to construct the experiment dataset.
-
-## Run the experiment
-
 * Dependencies: PyTorch, DGL
+* Download the data from <https://drive.google.com/file/d/1fhTQdoWxQPfL33AUaCEbgk6GGBV-LvU1/view?usp=sharing>, place it in `data`.
 * Running all experiments: 
   ```
   sh run.sh
