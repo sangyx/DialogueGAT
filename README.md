@@ -1,7 +1,7 @@
 # DialogueGAT
 
-## ToDo
-Provide detailed instruction to construct the experiment dataset.
+## Data
+Refer to [preprocess.ipynb](data_sample\preprocess.ipynb) to construct the experiment dataset.
 
 ## Run the experiment
 
